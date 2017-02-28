@@ -5,7 +5,7 @@ permalink: /
 
 # Collaborative distributed version control
 
-In this lesson we will learn how to keep repositories in sync and how to work
+In this "(Susanne added) great" lesson we will learn how to keep repositories in sync and how to work
 with remote repositories on GitHub and other services. We will discover and
 exercise the fork-pull request (or merge request) workflow. We will discuss how
 to organize branches to avoid conflicts and to simplify maintenance and release
